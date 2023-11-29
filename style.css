@@ -152,6 +152,7 @@ footer a {
   text-decoration: none;
   background-color: lightblue;
   padding: 5px;
+  margin-top: 20px;
   border-radius: 5px;
   transition: 0.3s;
   cursor: pointer;
